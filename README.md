@@ -1,5 +1,27 @@
 # 230206-AD-Troubleshooting-Workshop
 
+- [230206-AD-Troubleshooting-Workshop](#230206-ad-troubleshooting-workshop)
+  - [Labs](#labs)
+  - [Useful Tools](#useful-tools)
+    - [AutomatdLab](#automatdlab)
+    - [ActiveDirectoryManagementFramework (ADMF)](#activedirectorymanagementframework-admf)
+    - [LdapTools](#ldaptools)
+    - [GPOTools](#gpotools)
+    - [NTFSSecurity](#ntfssecurity)
+    - [Kerberos.NET](#kerberosnet)
+    - [dbatools – the community's sql powershell module](#dbatools--the-communitys-sql-powershell-module)
+  - [AD Topics](#ad-topics)
+    - [Active Directory Recovery Execution Service (ADRES)](#active-directory-recovery-execution-service-adres)
+    - [LMCompatibilityLevel - The Most Misunderstood Windows Security Setting of All Time](#lmcompatibilitylevel---the-most-misunderstood-windows-security-setting-of-all-time)
+    - [Read Active Directory Replication Metadata](#read-active-directory-replication-metadata)
+  - [PowerShell Topics](#powershell-topics)
+    - [Testing software and configurations](#testing-software-and-configurations)
+    - [Testing the whole forest with DCDiag](#testing-the-whole-forest-with-dcdiag)
+    - [Extending Event Log entries](#extending-event-log-entries)
+    - [Translating an SDDL string in an ACL](#translating-an-sddl-string-in-an-acl)
+    - [Reading files and folders even if it is not allowed](#reading-files-and-folders-even-if-it-is-not-allowed)
+    - [JEA - Just Enough Administration](#jea---just-enough-administration)
+
 ## Labs
 
 The labs will be available for another five months. The PowerPoint slides can also be downloaded via the Labs.
